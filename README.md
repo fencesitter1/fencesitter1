@@ -1,4 +1,4 @@
-[![github-profile](https://github.com/fencesitter1/pictures/blob/master/img/2024/01/05/helloi-am-wuwei_19-30-45.svg)](https://www.calligrapher.ai/)
+[![github-profile](https://github.com/fencesitter1/pictures/blob/master/img/2024/01/05/helloi-am-wuwei_20-11-34.svg)](https://www.calligrapher.ai/)
 
 # 👋 Hey there
 
