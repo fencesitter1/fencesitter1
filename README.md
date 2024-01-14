@@ -3,4 +3,4 @@
 
 I'm wuwei, learning front-end .
 
-<img src="https://github-readme-stats.vercel.app/api?username=fencesitter1"/>
+<div align="center">![GitHub stats](https://github-readme-stats.vercel.app/api?username=fencesitter1)</div>
